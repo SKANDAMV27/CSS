@@ -1,0 +1,32 @@
+nav{
+    height: 50px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.icon{
+    width: 0%;
+}
+.serch-bar input{
+    width: 30vw;
+    height: 30px;
+    border-radius: 5vh;
+}
+.serch-bar{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+}
+.create{
+    width: 0%;
+    height: 30px;
+    display: flex;
+}
+.sign{
+    display: flex;
+    width: 10%;
+    height: 30px;
+    background-color: blueviolet;
+
+}

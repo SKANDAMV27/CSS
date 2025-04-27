@@ -1,0 +1,15 @@
+.head{
+    background-color: aquamarine;
+    text-align: center;
+    text-decoration: dashed;
+    text-shadow: 6vh;
+    height: 40px;
+    width: 30vw;
+    position: relative;
+    left: 500px;;
+}
+#parragraph{
+    text-align: justify;
+    color: blueviolet;
+    height: 40px;
+}
