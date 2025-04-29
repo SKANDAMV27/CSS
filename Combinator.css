@@ -1,0 +1,37 @@
+.head {
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    border: 10px;
+    border-style: dotted;
+    top: 100px;
+}
+
+.head1 {
+    background-color: tomato;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 5vw;
+}
+.heads{
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(15, 1, 1);
+    background-image: url(DV.jpg);
+    
+
+}
+/*Disendent Combinator*/
+div p{
+    background-color:cadetblue;
+    border-radius: 500vw;
+}
+/* Child Combinator */
+div>b{
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body>p{
+    background-color: brown;
+    border: 5vw;
+    border-image: repeat;
+}
